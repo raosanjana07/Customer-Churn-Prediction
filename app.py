@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import joblib
 
 from utils.prediction import predict_customer
 from utils.model_loader import load_model, load_feature_columns
