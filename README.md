@@ -1,20 +1,21 @@
-# Customer Churn Prediction
+# 🚀 Customer Churn Prediction
 
-## 📌 Project Overview
-
-This project predicts whether a telecom customer is likely to churn using Machine Learning.
-
-The project includes:
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Machine Learning Model Training
-- Model Evaluation
-- Streamlit Web Application
+A Machine Learning project that predicts whether a telecom customer is likely to churn using **Random Forest Classifier** and a **Streamlit web application**.
 
 ---
 
-## 🛠 Technologies Used
+## 📌 Features
+
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Random Forest Machine Learning Model
+- Streamlit Web Application
+- Git & GitHub Version Control
+
+---
+
+## 🛠️ Tech Stack
 
 - Python
 - Pandas
@@ -27,20 +28,6 @@ The project includes:
 
 ---
 
-## 📊 Machine Learning Models
-
-- Logistic Regression
-- Decision Tree
-- Random Forest
-
----
-
-## 📈 Results
-
-- Best Accuracy: ~78%
-
----
-
 ## 📂 Project Structure
 
 ```
@@ -48,30 +35,31 @@ Customer-Churn-Prediction/
 │
 ├── app.py
 ├── train.py
-├── requirements.txt
-├── README.md
 ├── models/
 ├── data/
-└── notebooks/
+├── requirements.txt
+├── README.md
+└── .gitignore
 ```
 
 ---
 
-## 🚀 How to Run
+## 📊 Model
 
-### Clone the repository
+- Algorithm: Random Forest Classifier
+- Accuracy: **77.9%**
+
+---
+
+## 🚀 Installation
 
 ```bash
-git clone <repository-link>
+git clone https://github.com/raosanjana07/Customer-Churn-Prediction.git
 ```
-
-### Install dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
-
-### Run the application
 
 ```bash
 streamlit run app.py
@@ -81,4 +69,4 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-Sanjana Rao
+**Sanjana Rao**
