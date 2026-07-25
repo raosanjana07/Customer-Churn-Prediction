@@ -92,6 +92,37 @@ http://localhost:8501
 ```
 
 ---
+## 📸 Application Gallery
+
+> Screenshots showcasing different sections of the Customer Churn Prediction Dashboard.
+
+<img src="images/img1.png" width="900">
+
+<br><br>
+
+<img src="images/img2.png" width="900">
+
+<br><br>
+
+<img src="images/img3.png" width="900">
+
+<br><br>
+
+<img src="images/img4.png" width="900">
+
+<br><br>
+
+<img src="images/img5.png" width="900">
+
+---
+
+## 🎥 Demo Video
+
+Watch a complete walkthrough of the application:
+
+<a href="images/demo.mp4">▶️ Demo Video</a>
+
+---
 
 ## Project Overview
 
@@ -531,14 +562,6 @@ Through this project, I gained practical experience in:
 - Adding user authentication
 - Automating model retraining
 - Adding tests for prediction functions
-
----
-
-## Interview Explanation
-
-A concise way to explain this project in an interview:
-
-> I developed and deployed an end-to-end customer churn prediction web application using Python, scikit-learn, Random Forest, Streamlit, and Plotly. I cleaned and encoded the telecom customer data, trained and evaluated the classification model, saved the model and preprocessing objects, and built an interactive interface where users can enter customer information and receive a churn prediction, probability, risk level, and retention recommendation. I also added feature importance, customer analytics, model metrics, a confusion matrix, an ROC curve, and a downloadable prediction report. The final application was deployed using Streamlit Community Cloud and managed using Git and GitHub.
 
 ---
 
